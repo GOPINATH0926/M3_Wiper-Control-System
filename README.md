@@ -5,3 +5,7 @@
 <a href="https://app.codiga.io/hub/user/github/GOPINATH0926">
    <img src="https://api.codiga.io/public/badge/user/github/GOPINATH0926?style=light" alt="codiga badge" />
 </a>
+
+[![cppcheck-action](https://github.com/GOPINATH0926/M3_Wiper-Control-System/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/GOPINATH0926/M3_Wiper-Control-System/actions/workflows/cpp%20check.yml)
+
+
